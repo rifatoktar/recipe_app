@@ -1,6 +1,6 @@
 # foope
 
-Social Media App UI Design with Flutter and Figma
+Recipe and Kitchen Items Managment App UI Design with Flutter and Figma
 
 You can observe to predesign process in Figma
 
